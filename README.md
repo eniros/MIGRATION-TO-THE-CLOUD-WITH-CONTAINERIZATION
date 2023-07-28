@@ -1,4 +1,4 @@
-# MIGRATION-TO-THE-LOUD-WITH-CONTAINERIZATION
+# MIGRATION-TO-THE-CLOUD-WITH-CONTAINERIZATION
 MIGRATION TO THE СLOUD WITH CONTAINERIZATION
 
 Until now, we have been using VMs (AWS EC2) in Amazon Virtual Private Cloud (AWS VPC) to deploy your web solutions, and it works well in many cases.
